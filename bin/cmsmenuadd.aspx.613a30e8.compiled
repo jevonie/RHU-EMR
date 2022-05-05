@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Secured/SystemAdministration/cmsMenuAdd.aspx" hash="ffffffffa8c83d43" filehash="355b85045a3d95d0" flags="110000" assembly="App_Web_r5wvulgo" type="ASP.secured_systemadministration_cmsmenuadd_aspx">
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/SystemAdministration/cmsMenuAdd.aspx" hash="ffffffffa8c83d43" filehash="38e25671f6613fb9" flags="110000" assembly="App_Web_ggho3zlc" type="ASP.secured_systemadministration_cmsmenuadd_aspx">
     <filedeps>
         <filedep name="/REDESIGN/Include/sFooter.ascx" />
         <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />

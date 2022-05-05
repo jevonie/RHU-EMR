@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Secured/SystemAdministration/UserPermission.aspx" hash="ffffffffa8c83d43" filehash="dc07124711f7df51" flags="110000" assembly="App_Web_2jc4euce" type="ASP.secured_systemadministration_userpermission_aspx">
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/SystemAdministration/UserPermission.aspx" hash="ffffffffa8c83d43" filehash="3b3fe34cb2e4ee38" flags="110000" assembly="App_Web_ggho3zlc" type="ASP.secured_systemadministration_userpermission_aspx">
     <filedeps>
         <filedep name="/REDESIGN/Include/sFooter.ascx" />
         <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />

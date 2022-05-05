@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Secured/References/refMedFrequencies.aspx" hash="ffffffffa8c83d43" filehash="284b99719b57835c" flags="110000" assembly="App_Web_w3nxl2jc" type="ASP.secured_references_refmedfrequencies_aspx">
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/References/refMedFrequencies.aspx" hash="ffffffffa8c83d43" filehash="c44d22f3ca4d2875" flags="110000" assembly="App_Web_tmwhvkvv" type="ASP.secured_references_refmedfrequencies_aspx">
     <filedeps>
         <filedep name="/REDESIGN/Include/sFooter.ascx" />
         <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />
