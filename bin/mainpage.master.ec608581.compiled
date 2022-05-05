@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/REDESIGN/MasterPage/MainPage.master" hash="ffffffffa8c83d43" filehash="49819ed734722540" flags="110000" assembly="App_Web_4uw0togh" type="ASP.masterpage_mainpage_master">
+    <filedeps>
+        <filedep name="/REDESIGN/MasterPage/MainPage.master" />
+        <filedep name="/REDESIGN/MasterPage/MainPage.master.vb" />
+    </filedeps>
+</preserve>

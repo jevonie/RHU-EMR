@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/References/refNurse.aspx" hash="ffffffffa8c83d43" filehash="c632f51bbd69c424" flags="110000" assembly="App_Web_0b4do1yg" type="ASP.secured_references_refnurse_aspx">
+    <filedeps>
+        <filedep name="/REDESIGN/Include/sFooter.ascx" />
+        <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />
+        <filedep name="/REDESIGN/Include/sHeader.ascx" />
+        <filedep name="/REDESIGN/Include/sHeader.ascx.vb" />
+        <filedep name="/REDESIGN/Include/wucMainMenu.ascx" />
+        <filedep name="/REDESIGN/Include/wucMainMenu.ascx.vb" />
+        <filedep name="/REDESIGN/MasterPage/MainPage.master" />
+        <filedep name="/REDESIGN/MasterPage/MainPage.master.vb" />
+        <filedep name="/REDESIGN/Secured/References/refNurse.aspx" />
+        <filedep name="/REDESIGN/Secured/References/refNurse.aspx.vb" />
+    </filedeps>
+</preserve>
