@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Secured/References/ERDiagnosisAdd.aspx" hash="ffffffffa8c83d43" filehash="d53601fb1ef0982" flags="110000" assembly="App_Web_e1qsydts" type="ASP.secured_references_erdiagnosisadd_aspx">
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/References/ERDiagnosisAdd.aspx" hash="ffffffffa8c83d43" filehash="f84c8b214f44c323" flags="110000" assembly="App_Web_4q35xnvt" type="ASP.secured_references_erdiagnosisadd_aspx">
     <filedeps>
         <filedep name="/REDESIGN/Include/sFooter.ascx" />
         <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />

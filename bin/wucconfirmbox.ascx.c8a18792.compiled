@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Include/wucConfirmBox.ascx" hash="ffffffffa8c83d43" filehash="f872d528fb3ccb9b" flags="110000" assembly="App_Web_hpobqyk2" type="ASP.include_wucconfirmbox_ascx">
+<preserve resultType="3" virtualPath="/REDESIGN/Include/wucConfirmBox.ascx" hash="ffffffffa8c83d43" filehash="f872d528fb3ccb9b" flags="110000" assembly="App_Web_sttah4qy" type="ASP.include_wucconfirmbox_ascx">
     <filedeps>
         <filedep name="/REDESIGN/Include/wucConfirmBox.ascx" />
         <filedep name="/REDESIGN/Include/wucConfirmBox.ascx.vb" />

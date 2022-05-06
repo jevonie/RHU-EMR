@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/REDESIGN/Include/breadCrumbs.ascx" hash="ffffffffa8c83d43" filehash="eb8678edb0ff8df5" flags="110000" assembly="App_Web_sttah4qy" type="ASP.include_breadcrumbs_ascx">
+    <filedeps>
+        <filedep name="/REDESIGN/Include/breadCrumbs.ascx" />
+        <filedep name="/REDESIGN/Include/breadCrumbs.ascx.vb" />
+    </filedeps>
+</preserve>
