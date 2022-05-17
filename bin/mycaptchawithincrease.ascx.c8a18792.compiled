@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Include/MyCaptchaWithIncrease.ascx" hash="ffffffffa8c83d43" filehash="405ead95196b" flags="110000" assembly="App_Web_xlfpu2dm" type="ASP.MyCaptchaWithIncrease">
+<preserve resultType="3" virtualPath="/REDESIGN/Include/MyCaptchaWithIncrease.ascx" hash="ffffffffa8c83d43" filehash="405ead95196b" flags="110000" assembly="App_Web_3w2wr4h2" type="ASP.MyCaptchaWithIncrease">
     <filedeps>
         <filedep name="/REDESIGN/Include/MyCaptchaWithIncrease.ascx" />
     </filedeps>

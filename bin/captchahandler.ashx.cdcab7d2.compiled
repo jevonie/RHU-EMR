@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/REDESIGN/CaptchaHandler.ashx" hash="ffffffffff065493" filehash="25d275ed6990" flags="110000" assembly="App_Web_nfrazul0" type="CaptchaHandler">
+<preserve resultType="2" virtualPath="/REDESIGN/CaptchaHandler.ashx" hash="ffffffffff065493" filehash="25d275ed6990" flags="110000" assembly="App_Web_x21olj20" type="CaptchaHandler">
     <filedeps>
         <filedep name="/REDESIGN/CaptchaHandler.ashx" />
     </filedeps>
