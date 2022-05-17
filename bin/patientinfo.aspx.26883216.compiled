@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Secured/EMR/PatientInfo.aspx" hash="ffffffffa8c83d43" filehash="8bec24f441cad877" flags="110000" assembly="App_Web_hp3tzs11" type="ASP.secured_emr_patientinfo_aspx">
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/EMR/PatientInfo.aspx" hash="ffffffffa8c83d43" filehash="8bec24f441cad877" flags="110000" assembly="App_Web_5oa5cnsw" type="ASP.secured_emr_patientinfo_aspx">
     <filedeps>
         <filedep name="/REDESIGN/Include/sFooter.ascx" />
         <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />
