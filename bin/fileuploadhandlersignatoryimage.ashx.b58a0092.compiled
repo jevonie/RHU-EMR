@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/REDESIGN/Secured/Utility/FileUploadHandlerSignatoryImage.ashx" hash="ffffffffff065493" filehash="ffffe52dc3018792" flags="110000" assembly="App_Web_kaqawkkb" type="FileUploadHandlerOperatorImage">
+<preserve resultType="2" virtualPath="/REDESIGN/Secured/Utility/FileUploadHandlerSignatoryImage.ashx" hash="ffffffffff065493" filehash="ffffe52dc3018792" flags="110000" assembly="App_Web_235beyud" type="FileUploadHandlerOperatorImage">
     <filedeps>
         <filedep name="/REDESIGN/Secured/Utility/FileUploadHandlerSignatoryImage.ashx" />
     </filedeps>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/MasterPage/MainPage.master" hash="ffffffffa8c83d43" filehash="b55d13cbb541709a" flags="110000" assembly="App_Web_jzo4wslu" type="ASP.masterpage_mainpage_master">
+<preserve resultType="3" virtualPath="/REDESIGN/MasterPage/MainPage.master" hash="ffffffffa8c83d43" filehash="b55d13cbb541709a" flags="110000" assembly="App_Web_jklleb4t" type="ASP.masterpage_mainpage_master">
     <filedeps>
         <filedep name="/REDESIGN/MasterPage/MainPage.master" />
         <filedep name="/REDESIGN/MasterPage/MainPage.master.vb" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Include/wucCaptcha.ascx" hash="ffffffffa8c83d43" filehash="16462c25f2075b81" flags="110000" assembly="App_Web_wrlxw5o0" type="ASP.include_wuccaptcha_ascx">
+<preserve resultType="3" virtualPath="/REDESIGN/Include/wucCaptcha.ascx" hash="ffffffffa8c83d43" filehash="16462c25f2075b81" flags="110000" assembly="App_Web_evv3j2ed" type="ASP.include_wuccaptcha_ascx">
     <filedeps>
         <filedep name="/REDESIGN/Include/wucCaptcha.ascx" />
         <filedep name="/REDESIGN/Include/wucCaptcha.ascx.vb" />
