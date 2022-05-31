@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/REDESIGN/Secured/EMR/ERAdd.aspx" hash="ffffffffa8c83d43" filehash="807efabc9cb883bd" flags="110000" assembly="App_Web_hjclkbrl" type="ASP.secured_emr_eradd_aspx">
+<preserve resultType="3" virtualPath="/REDESIGN/Secured/EMR/ERAdd.aspx" hash="ffffffffa8c83d43" filehash="819a69d7bd6151cd" flags="110000" assembly="App_Web_f0dtxir4" type="ASP.secured_emr_eradd_aspx">
     <filedeps>
         <filedep name="/REDESIGN/Include/sFooter.ascx" />
         <filedep name="/REDESIGN/Include/sFooter.ascx.vb" />
